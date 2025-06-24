@@ -1,0 +1,35 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+
+Generated on: 2025-06-24 14:18:06
+
+SUMMARY STATISTICS:
+- Total Students: 4
+- Average GPA: 7.35
+- Highest GPA: 9.20
+- Lowest GPA: 5.00
+- GPA Standard Deviation: 1.75
+
+Student ID: 101
+Name: Alice
+GPA: 7.80
+Grades: {'Math': 'A', 'Science': 'B+', 'English': 'A', 'History': 'B', 'Computer': 'C+'}
+----------------------------------------
+
+Student ID: 102
+Name: Bob
+GPA: 7.40
+Grades: {'Math': 'B+', 'Science': 'C', 'English': 'A+', 'History': 'A', 'Computer': 'C'}
+----------------------------------------
+
+Student ID: 103
+Name: Charlie
+GPA: 9.20
+Grades: {'Math': 'A', 'Science': 'A', 'English': 'A', 'History': 'A', 'Computer': 'A+'}
+----------------------------------------
+
+Student ID: 104
+Name: Doll
+GPA: 5.00
+Grades: {'Math': 'D', 'Science': 'C', 'English': 'C+', 'History': 'D', 'Computer': 'C+'}
+----------------------------------------
+
